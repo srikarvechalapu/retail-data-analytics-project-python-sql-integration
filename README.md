@@ -104,10 +104,10 @@ This project demonstrates a solid understanding of the data analytics lifecycle,
 
 Feel free to explore the project and reach out with any questions or feedback. I'm excited to connect with like-minded professionals and recruiters in the data analytics field.
 
-**LinkedIn:** https://www.linkedin.com/in/akshita-mary-john-35542a12a/
+**LinkedIn:** https://www.linkedin.com/in/srikarvechalapu/
 
-**Email:** a.john1009@gmail.com
+**Email:** srikar2025@gmail.com
 
 **About the Maintainer**
 
-This project is maintained by Akshita Mary John. As a Product Owner with 3+ years of experience, I leverage data analysis skills, including Python (Pandas, NumPy, Matplotlib) and SQL, to inform product strategy and drive data-driven decision-making. I am committed to delivering clear, actionable insights from complex datasets.
+This project is maintained by Sai Srikar Vechalapu. As a Product Owner with 3+ years of experience, I leverage data analysis skills, including Python (Pandas, NumPy, Matplotlib) and SQL, to inform product strategy and drive data-driven decision-making. I am committed to delivering clear, actionable insights from complex datasets.
